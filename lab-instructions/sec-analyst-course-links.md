@@ -41,7 +41,9 @@ SC-5004 MS Learn
 ](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/)
 
 Trellix – forensics
+
 AV – finding and pulling down information from SharePoint
+
 [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR - Applied Skills | Microsoft Learn
 ](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
 
