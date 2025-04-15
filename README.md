@@ -71,6 +71,42 @@ SC-5001 MS Learn
 [Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel - Applied Skills | Microsoft Learn
 ](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/)
 
+1.	Splunk SIEM/SOAR: Microsoft Defender integrates with Splunk through the Splunk Add-on for Microsoft Security. This allows ingestion of incidents and alerts from Defender products into Splunk's Common Information Model (CIM). It supports bi-directional updates, enabling changes in Splunk to reflect in Defender and vice versa. (Syslog solution or use SIEM Migration) 
+[Integrate your SIEM tools with Microsoft Defender XDR - Microsoft Defender XDR | Microsoft Learn](https://learn.microsoft.com/en-us/defender-xdr/configure-siem-defender)
+
+[Export Splunk data to target platform - Microsoft Sentinel | Microsoft Learn
+](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-historical-data)
+
+2.	Palo Alto: Defender for IoT can integrate with Palo Alto Networks to provide multidimensional visibility for SOC analysts. This integration allows viewing Defender and Palo Alto data in one place or using Defender data to configure blocking actions in Palo Alto firewalls. (Solution available)
+
+[Set up Microsoft Defender XDR for Integration
+](https://docs.paloaltonetworks.com/iot/integration/endpoint-protection/integrate-iot-security-with-microsoft-defender-xdr/set-up-microsoft-defender-xdr-for-integration)
+
+[Integrate Palo Alto with Microsoft Defender for IoT - Microsoft Defender for IoT | Microsoft Learn
+](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/tutorial-palo-alto)
+
+4. Tenable: Microsoft Defender integrates with Tenable through the Tenable data connector in Microsoft Security Exposure Management. This enables the retrieval of vulnerability data and asset information from Tenable, helping organizations assess and manage risks effectively. (Solution available)
+   
+[Integrate Tenable data connector in Microsoft Security Exposure Management - Microsoft Security Exposure Management | Microsoft Learn
+](https://learn.microsoft.com/en-us/security-exposure-management/tenable-data-connector)
+
+5.	Archer/Splunk Case Management: Defender supports integration with case management systems like Splunk through APIs. This allows creating and updating tickets or alerts in external systems, ensuring seamless collaboration between security and IT teams.
+Manage cases natively in Microsoft's unified SecOps platform -
+
+[Microsoft's unified security operations platform | Microsoft Learn](https://learn.microsoft.com/en-us/unified-secops-platform/cases-overview)
+
+[Integrate your SIEM tools with Microsoft Defender XDR - Microsoft Defender XDR | Microsoft Learn
+](https://learn.microsoft.com/en-us/defender-xdr/configure-siem-defender)
+
+6.	Defender for Endpoint and Intune: Defender for Endpoint integrates with Intune to enforce device compliance and manage security settings. This integration enables Conditional Access policies, device risk assessments, and remediation of vulnerabilities identified by Defender's Threat & Vulnerability Management.
+   
+[Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune | Microsoft Learn
+](https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure)
+
+[Use Microsoft Defender for Endpoint in Microsoft Intune | Microsoft Learn
+](https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection)
+
+
 [Permissions - Visibility into Exchange Email
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
 
