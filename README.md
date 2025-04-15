@@ -64,6 +64,6 @@ SC-5001 MS Learn
 [Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel - Applied Skills | Microsoft Learn
 ](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/)
 
-Permissions - Visibility into Exchange Email
-
+[Permissions - Visibility into Exchange Email
+](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
 
