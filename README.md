@@ -7,7 +7,7 @@ Additional helpful information and links are below:
 
 Security Analyst – Defender XDR helpful links
 
-Day One:
+**Day One:**
 SC-200 MS Learn
 
 [Microsoft Certified: Security Operations Analyst Associate - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
@@ -41,7 +41,7 @@ Lab github for simulation links:
 
 https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/parsejsonfunction
 
-Day Two:
+**Day Two:**
 SC-5004 MS Learn
 
 [Defend against cyberthreats with Microsoft Defender XDR - Training | Microsoft Learn
