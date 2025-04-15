@@ -85,12 +85,12 @@ SC-5001 MS Learn
 [Integrate Palo Alto with Microsoft Defender for IoT - Microsoft Defender for IoT | Microsoft Learn
 ](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/tutorial-palo-alto)
 
-4. Tenable: Microsoft Defender integrates with Tenable through the Tenable data connector in Microsoft Security Exposure Management. This enables the retrieval of vulnerability data and asset information from Tenable, helping organizations assess and manage risks effectively. (Solution available)
+3. Tenable: Microsoft Defender integrates with Tenable through the Tenable data connector in Microsoft Security Exposure Management. This enables the retrieval of vulnerability data and asset information from Tenable, helping organizations assess and manage risks effectively. (Solution available)
    
 [Integrate Tenable data connector in Microsoft Security Exposure Management - Microsoft Security Exposure Management | Microsoft Learn
 ](https://learn.microsoft.com/en-us/security-exposure-management/tenable-data-connector)
 
-5.	Archer/Splunk Case Management: Defender supports integration with case management systems like Splunk through APIs. This allows creating and updating tickets or alerts in external systems, ensuring seamless collaboration between security and IT teams.
+4.	Archer/Splunk Case Management: Defender supports integration with case management systems like Splunk through APIs. This allows creating and updating tickets or alerts in external systems, ensuring seamless collaboration between security and IT teams.
 Manage cases natively in Microsoft's unified SecOps platform -
 
 [Microsoft's unified security operations platform | Microsoft Learn](https://learn.microsoft.com/en-us/unified-secops-platform/cases-overview)
@@ -98,7 +98,7 @@ Manage cases natively in Microsoft's unified SecOps platform -
 [Integrate your SIEM tools with Microsoft Defender XDR - Microsoft Defender XDR | Microsoft Learn
 ](https://learn.microsoft.com/en-us/defender-xdr/configure-siem-defender)
 
-6.	Defender for Endpoint and Intune: Defender for Endpoint integrates with Intune to enforce device compliance and manage security settings. This integration enables Conditional Access policies, device risk assessments, and remediation of vulnerabilities identified by Defender's Threat & Vulnerability Management.
+5.	Defender for Endpoint and Intune: Defender for Endpoint integrates with Intune to enforce device compliance and manage security settings. This integration enables Conditional Access policies, device risk assessments, and remediation of vulnerabilities identified by Defender's Threat & Vulnerability Management.
    
 [Onboard and Configure Devices with Microsoft Defender for Endpoint via Microsoft Intune | Microsoft Learn
 ](https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection-configure)
