@@ -21,14 +21,17 @@ Modules covered in class:
     - Module 06
     - Module 10
 
-Microsoft Defender XDR roles and permissions:
+[Microsoft Defender XDR roles and permissions:
+](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/email-permissions-lab-detail.md)
 
 [Microsoft Defender XDR Unified role-based access control (RBAC) - Microsoft Defender XDR | Microsoft Learn
 ](https://learn.microsoft.com/en-us/defender-xdr/manage-rbac)
 
 [Microsoft Defender for Office 365 permissions in the Microsoft Defender portal - Microsoft Defender for Office 365 | Microsoft Learn](https://learn.microsoft.com/en-us/defender-office-365/mdo-portal-permissions)
 
-Threat hunting queries – KQL
+[Threat hunting queries – KQL
+](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/kql-lab-detail.md)
+
 [GitHub - cyb3rmik3/KQL-threat-hunting-queries: A repository of KQL queries focused on threat hunting and threat detecting for Microsoft Sentinel & Microsoft XDR (Former Microsoft 365 Defender).
 ](https://github.com/cyb3rmik3/KQL-threat-hunting-queries)
 
@@ -47,14 +50,16 @@ SC-5004 MS Learn
 [Defend against cyberthreats with Microsoft Defender XDR - Training | Microsoft Learn
 ](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/)
 
-Trellix – forensics
+[Trellix – forensics
+](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/trellix-lab-detail.md)
 
-AV – finding and pulling down information from SharePoint
+[AV – finding and pulling down information from SharePoint
+](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/av-inspection-sharepoint-lab-detail.md)
 
 [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR - Applied Skills | Microsoft Learn
 ](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
 
-Additional content:
+**Additional content:**
 
 SC-5001 MS Learn
 
