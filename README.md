@@ -12,7 +12,7 @@ Security Analyst – Defender XDR helpful links
 **Day One:**
 SC-200 MS Learn
 
-[Microsoft Certified: Security Operations Analyst Associate - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
+**[Microsoft Certified: Security Operations Analyst Associate - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)**
 
 Modules covered in class:
 -	https://learn.microsoft.com/training/paths/sc-200-mitigate-threats-using-microsoft-365-defender/
@@ -49,8 +49,8 @@ https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/parsejsonfunct
 **Day Two:**
 SC-5004 MS Learn
 
-[Defend against cyberthreats with Microsoft Defender XDR - Training | Microsoft Learn
-](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/)
+**[Defend against cyberthreats with Microsoft Defender XDR - Training | Microsoft Learn
+](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/)**
 
 [Trellix – forensics
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/trellix-lab-detail.md)
