@@ -108,6 +108,10 @@ Manage cases natively in Microsoft's unified SecOps platform -
 
 [Live Response](https://learn.microsoft.com/en-us/defender-endpoint/live-response)
 
+https://github.com/cyb3rmik3/MDE-DFIR-Resources?tab=readme-ov-file#remote-collection-of-windows-forensic-artifacts-using-kape-and-mde
+
+https://answers.microsoft.com/en-us/msoffice/forum/all/can-i-take-windows-memory-dump-use-microsofts/44b71007-2e80-4ff3-bea4-943343d11fb7
+
 [Permissions - Visibility into Exchange Email
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
 
