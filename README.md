@@ -106,6 +106,7 @@ Manage cases natively in Microsoft's unified SecOps platform -
 [Use Microsoft Defender for Endpoint in Microsoft Intune | Microsoft Learn
 ](https://learn.microsoft.com/en-us/intune/intune-service/protect/advanced-threat-protection)
 
+[Live Response](https://learn.microsoft.com/en-us/defender-endpoint/live-response)
 
 [Permissions - Visibility into Exchange Email
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
