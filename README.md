@@ -112,6 +112,8 @@ https://github.com/cyb3rmik3/MDE-DFIR-Resources?tab=readme-ov-file#remote-collec
 
 https://answers.microsoft.com/en-us/msoffice/forum/all/can-i-take-windows-memory-dump-use-microsofts/44b71007-2e80-4ff3-bea4-943343d11fb7
 
+https://learn.microsoft.com/en-us/defender-endpoint/respond-machine-alerts#isolate-devices-from-the-network 
+
 [Permissions - Visibility into Exchange Email
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
 
