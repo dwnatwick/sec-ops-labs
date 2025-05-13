@@ -102,5 +102,7 @@ This guide is an adaptable framework; you may need to refine each step based on 
 ---
 
 additional links for network watcher packet capture:  
+
 https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview
+
 https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-inspect
