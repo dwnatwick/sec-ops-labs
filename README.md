@@ -119,3 +119,9 @@ https://learn.microsoft.com/en-us/defender-endpoint/respond-machine-alerts#isola
 
 Applied Skills assessment https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/
 
+https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/
+
+https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/
+
+https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/
+
