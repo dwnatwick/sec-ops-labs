@@ -117,7 +117,9 @@ https://learn.microsoft.com/en-us/defender-endpoint/respond-machine-alerts#isola
 [Permissions - Visibility into Exchange Email
 ](https://github.com/dwnatwick/sec-ops-labs/blob/main/lab-instructions/roles-permissions-lab-detail.md)
 
-Applied Skills assessment https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/
+**Applied Skills assessments:**
+
+https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/
 
 https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/
 
