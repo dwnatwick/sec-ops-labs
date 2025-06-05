@@ -12,6 +12,10 @@ Security Analyst – Defender XDR helpful links
 **Day One:**
 SC-200 MS Learn
 
+**SC-200 labs** 
+
+https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst
+
 **[Microsoft Certified: Security Operations Analyst Associate - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)**
 
 Modules covered in class:
