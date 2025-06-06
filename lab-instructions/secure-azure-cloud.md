@@ -1,5 +1,5 @@
 ## Secure Azure Cloud ##
 
-Website: https://github.com/CyberAutomationX/SecureAzCloud-Scripts/tree/main/KQL
+[Secure Azure Cloud website](https://secureazcloud.com/microsoft-security)
 
-KQL repo: https://github.com/CyberAutomationX/SecureAzCloud-Scripts/tree/main/KQL
+[Secure Azure Cloud github repository](https://github.com/CyberAutomationX/SecureAzCloud-Scripts/tree/main/KQL)
